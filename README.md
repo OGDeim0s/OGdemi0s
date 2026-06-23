@@ -2,21 +2,31 @@
 
 🎓 BCA (AI & ML) Student at VIT-AP University
 
-💻 Skills:
+💻 Technical Skills
 - Java
 - Python
 - SQL
 - Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
 
-🤖 Interests:
+🤖 Areas of Interest
 - Artificial Intelligence
 - Machine Learning
 - Software Development
 
-🌱 Currently Learning:
+🌱 Currently Learning
 - DSA
 - AI & ML
 - Database Management Systems
+- Software Engineering
 
-🎯 Goal:
-To build innovative software and AI-driven solutions while continuously improving my technical skills.
+🏆 Achievements
+- Creative Writing Competition Winner (2 Consecutive Years)
+- Active Member of Hindi Association
+- Member of Model United Nations (MUN) Club
+
+🎯 Career Goal
+Aspiring AI & Software Developer passionate about building innovative solutions and continuously improving technical skills.
+
+📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/aakhya-gupta
