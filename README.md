@@ -29,4 +29,6 @@
 Aspiring AI & Software Developer passionate about building innovative solutions and continuously improving technical skills.
 
 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/aakhya-gupta
+- LinkedIn: www.linkedin.com/in/aakhya-gupta-17ba78388
+
+
